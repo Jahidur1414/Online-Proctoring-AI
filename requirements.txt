@@ -1,0 +1,4 @@
+lxml
+tqdm
+opencv-python
+tensorflow
