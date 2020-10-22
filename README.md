@@ -51,6 +51,12 @@ The typical eye structure used in gaze tracking applications is demonstrated in 
 
 First you need to move in the this github file directory using **Anaconda Command Prompt**. Then install all prerequisites using this command.
 
+Then Download the **shape_predictor_68_face_landmarks** file from this link [Click Here](https://drive.google.com/file/d/1sqHit7yvjXMrtlVmmiP2pO1nvMn7TL1s/view?usp=sharing)
+
+and then replace it in **Online Proctoring AI->gaze_tracking->trained_models** folder.
+
+**Then Run Those Command.
+
 `pip install -r requirements.txt`
 
 Then run the main.py file.
