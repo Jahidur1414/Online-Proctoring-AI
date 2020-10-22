@@ -55,7 +55,11 @@ Then Download the **shape_predictor_68_face_landmarks** file from this link [Cli
 
 and then replace it in **Online Proctoring AI->gaze_tracking->trained_models** folder.
 
-**Then Run Those Command.
+Also Download the **variables.data-00000-of-00001** file from this link [Click Here](https://drive.google.com/file/d/1gz7SrCsiZWle7uICqhstJFXnHphtvqpu/view?usp=sharing)
+
+and then replace it in **Online Proctoring AI->models->pose_model->variables** folder
+
+**Then Run Those Command.**
 
 `pip install -r requirements.txt`
 
